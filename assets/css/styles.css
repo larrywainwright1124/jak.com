@@ -1,0 +1,49 @@
+
+.page-heading {
+    position:relative;
+    background-color:#b3d7ff;
+    margin:0 0 1em 0;
+}
+
+.page-heading-content {
+    position:relative;
+    font-size:2em;
+}
+
+.sidebar-frame {
+    position:relative;
+    /*background-color:cyan;*/
+}
+
+.login-frame {
+    position:relative;
+    margin: 0 auto;
+    width:50%;
+}
+
+.error-para {
+    font-size:1.2em;
+    color:#800000;
+}
+
+input[type="text"],
+textarea,
+select {
+    display:block;
+    width:100%;
+}
+
+
+ul.sidebar-menu {
+    display:block;
+    position:relative;
+    width:100%;
+    margin:0.5em;
+    padding:0;
+}
+ul.sidebar-menu li {
+    display:block;
+    position: relative;
+    width:100%;
+    padding:0;
+}
